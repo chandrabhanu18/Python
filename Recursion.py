@@ -1,4 +1,4 @@
-# /Recursion
+# Recursion problems
 # Array Sum
 def SumOfArray(i,array):
     if i==len(array):
