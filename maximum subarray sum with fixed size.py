@@ -1,5 +1,5 @@
 # Sliding windows
-# Maximum subarray of window size k 
+# Maximum subarray of window size k ex: k=4
 def maximum_sum(a,k):
     window_sum=sum(a[:k])
     maxi_sum=window_sum
