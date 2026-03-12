@@ -1,3 +1,5 @@
+# Approach is first convert number into binary and then convert the binary number into compliment
+
 class Solution(object):
     def bitwiseComplement(self, n):
         """
