@@ -4,7 +4,7 @@ def SumOfArray(i,array):
     if i==len(array):
         return 0;
     return array[i]+SumOfArray(i+1,array)
-# String Reversing
+# String Reversing in recursion
 def reversing(s):
     if not s:
         return s
